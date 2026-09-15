@@ -24,6 +24,6 @@ public class HelloWorld
             Console.WriteLine ("Todo esta en orden");
         }
 
-        Console.WriteLine ("Programa finalizado finalizado.");
+        Console.WriteLine ("Programa finalizado.");
     }
 }
