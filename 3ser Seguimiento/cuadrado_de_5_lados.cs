@@ -15,6 +15,6 @@ public class HelloWorld {
                 Console.WriteLine("n   n");
             }
         }
-        Console.WriteLine("*****");
+        Console.WriteLine("nnnnn");
     }
 }
